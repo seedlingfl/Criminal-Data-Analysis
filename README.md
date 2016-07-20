@@ -1,4 +1,4 @@
 # Criminal-Data-Analysis
-assignment for the online course: introduction to data science
+This is one of the programming assignment of the online course: introduction to data science offered by University of Washington on Coursera
 
-not finished
+This repository is just for a trial. I am trying to familarize myself with github through this project.
